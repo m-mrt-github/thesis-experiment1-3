@@ -585,7 +585,7 @@ function draw() {
     textSize(titleSize);
     text(novelInfo[novelNumber][0], titleXY, titleXY);
     textSize(12.5);
-    text(novelInfo[novelNumber][1], autherXY + titleWidth + 15, autherXY + 5);
+    text(novelInfo[novelNumber][1], autherXY + titleWidth + 15, autherXY + 8);
     //noFill();
     //stroke(10);
     //rect(0, 0, 100, screenMargin);
