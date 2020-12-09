@@ -22,7 +22,7 @@ var titleXY = 5;
 var autherXY = 5;
 var titleSize = 20;
 var titleWidth = 0;
-var novelNumber = 0;
+var novelNumber = 2;
 var novelInfo = [
     ['デューク', '江國香織', 'duke.txt'],
     ['スイート・ラバーズ', '江國香織', 'natsu.txt'],
